@@ -14,7 +14,6 @@
 ##### Links
 * [Linkedin](https://www.linkedin.com/in/hasan-unal/)
 * [CodePen](https://codepen.io/hasanunal)
-* [Behance](https://be.net/hasanunal)
 * [Hasanunal.org](https://hasanunal.org)
 
 > thx.
